@@ -14,3 +14,8 @@ log/
 *.iws
 *.iml
 *.ipr
+
+# Package Files #
+*.jar
+*.war
+*.ear
